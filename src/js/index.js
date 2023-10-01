@@ -22,4 +22,4 @@ function desselecionarPersonagem() {
     ".personagem.selecionado"
   );
   personagemSelecionado.classList.remove("selecionado");
-}
+};
